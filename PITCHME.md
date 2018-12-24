@@ -6,7 +6,7 @@
 
 ## Add Some Slide Candy
 
-![](assets/img/javascript.png)
+![](assets/img/presentation.png)
 
 ---
 @title[Customize Slide Layout]
@@ -16,7 +16,7 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/javascript.png)
+![](assets/img/presentation.png)
 @snapend
 
 ---?color=#ed4756
