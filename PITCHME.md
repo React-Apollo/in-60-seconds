@@ -1,3 +1,5 @@
+---?color=#4274ee
+
 # Let's Get Started
 
 ---
