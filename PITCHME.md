@@ -1,4 +1,4 @@
----?color=#4274ee
+---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 
 # Let's Get Started
 
