@@ -17,7 +17,7 @@
 ![](assets/img/presentation.png)
 @snapend
 
----?color=#E58537
+---?color=#ed4756
 @title[Add A Little Imagination]
 
 @snap[north-west]
