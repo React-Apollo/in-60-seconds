@@ -18,6 +18,7 @@
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
+
 [//]: <> (P2)
 ---?color=#ed4756
 @title[Add A Little Imagination]
@@ -28,16 +29,17 @@
 
 @snap[west span-55]
 @ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- @fa[adress-book] You will be amazed
+- @fa[adress-archive] What you can achieve
+- @fa[adress-calculator] *With a little imagination...*
+- @fa[chart-area] And **GitPitch Markdown**
 @ulend
 @snapend
 
 @snap[east span-45]
 @img[shadow](assets/img/conference.png)
 @snapend
+[//]: <> (page3)
 
 ---?image=assets/img/presenter.jpg
 
