@@ -1,7 +1,8 @@
 ---?color=linear-gradient(to bottom, #da9f5c, #dc778b)
 
 # Let's  Started to Styled Components
-[//]: <> (P1)
+
+[//]: <> (P2)
 ---
 
 #### Add Some styled-components code
@@ -44,10 +45,30 @@ render(
 )
 ```
 
-[//]: <> (P2)
+[//]: <> (P3)
 ---
 
 
 
 <iframe src="https://codesandbox.io/embed/p55zy0301j?view=preview" style="width:100%; height:600px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
+[//]: <> (P4)
+---?color=lightgray
+
+@snap[north-west]
+The Agenda
+@snapend
+
+@snap[south-west list-content-concise span-60]
+@ol[](false)
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Sed do eiusmod tempor
+- Ut enim ad minim veniam
+- Duis aute irure dolor in
+- Excepteur sint occaecat
+- Cupidatat non proident
+- Sunt in culpa qui officia
+@olend
+<br><br>
+@snapend
