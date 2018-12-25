@@ -47,7 +47,7 @@ render(
 [//]: <> (P2)
 ---
 @title[Styled Components Basics]
-@snap[ span-80]
+@snap[ center span-80]
     @ul[spaced text-white]
     - Automatic critical CSS
     - No class name bugs
