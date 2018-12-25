@@ -4,7 +4,7 @@
 [//]: <> (P1)
 ---
 
-## Add Some styled-components code
+#### Add Some styled-components code
 
 ```javascript
 const Button = styled.a`
@@ -44,46 +44,69 @@ render(
 )
 ```
 
-[//]: <> (P3)
----
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
-[//]: <> (P2)
----?color=#ed4756
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
+[//]: <> (====P2====)
+---?color=white
+@title[Styled Components Basics]
+@snap[ span-80]
 @ul[spaced text-white]
-- @fa[adress-book] You will be amazed
-- @fa[adress-archive] What you can achieve
-- @fa[adress-calculator] *With a little imagination...*
-- @fa[chart-area] And **GitPitch Markdown**
+- Automatic critical CSS
+- No class name bugs
+- Easier deletion of CSS
+- Simple dynamic styling
+- Painless Maintenance
+- Automatic vendor prefixing
 @ulend
 @snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-[//]: <> (page3)
 
----?image=assets/img/presenter.jpg
+[//]: <> (P3)
+---?color=white
+@title[Installation]
 
-@snap[north span-100 headline]
-## Now It's Your Turn
+#### Installation
+use NPM
+```bash
+npm install --save styled-components
+```
+use Yarn
+```bash
+yarn add styled-components
+```
+
+
+[//]: <> (page4)
+
+---
+
+
+@snap[span-40 west] 
+Getting Started
 @snapend
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+@snap[ span-100]
+ ```javascript
+ // Create a Title component that'll render an <h1> tag with some styles
+const Title = styled.h1`
+  font-size: 1.5em;
+  text-align: center;
+  color: palevioletred;
+`;
+
+// Create a Wrapper component that'll render a <section> tag with some styles
+const Wrapper = styled.section`
+  padding: 4em;
+  background: papayawhip;
+`;
+
+// Use Title and Wrapper like any other React component – except they're styled!
+render(
+  <Wrapper>
+    <Title>
+      Hello World!
+    </Title>
+  </Wrapper>
+);
+ ```
 @snapend
+
+
