@@ -46,15 +46,11 @@ render(
 
 [//]: <> (P2)
 ---
-@title[Styled Components Basics]
-@snap[west span-80]
+@snap[west span-55]
 @ul[spaced text-white]
- - Automatic critical CSS
- - No class name bugs
- - Easier deletion of CSS
- - Simple dynamic styling
- - Painless Maintenance
- - Automatic vendor prefixing
+- You will be amazed
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
 @ulend
 @snapend
-
