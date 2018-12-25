@@ -80,3 +80,13 @@ render(
 @snap[midpoint]
 @fa[refresh fa-3x]
 @snapend
+
+
+---
+
+```bash
+npm install --save styled-components;
+ yarn add stylded-components;
+```
+@[1](NPM Management)
+@[2](Yarn Package Management)
