@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 
 # Let's Get Started
-
+[//]: <> (P1)
 ---
 
 ## Add Some Slide Candy
@@ -18,7 +18,7 @@
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
-
+[//]: <> (P2)
 ---?color=#ed4756
 @title[Add A Little Imagination]
 
