@@ -38,7 +38,7 @@ footnote : "React-Apollo's super full Stack Javascript Lecture"
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
-published : true
+published : false
 
 #
 # Twitter Card Settings [Pro Only]
