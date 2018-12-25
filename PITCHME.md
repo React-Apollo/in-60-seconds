@@ -46,8 +46,8 @@ render(
 
 [//]: <> (P2)
 ---
-@snap[west span-85]
+
 [![Edit p55zy0301j](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/p55zy0301j)
 
 <iframe src="https://codesandbox.io/embed/p55zy0301j" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
-@snapend
+
