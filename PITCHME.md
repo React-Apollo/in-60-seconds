@@ -44,8 +44,8 @@ render(
 )
 ```
 
-[//]: <> (====P2====)
----?
+[//]: <> (P2)
+---
 @title[Styled Components Basics]
 @snap[ span-80]
     @ul[spaced text-white]
