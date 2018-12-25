@@ -1,6 +1,6 @@
----?color=linear-gradient(to left, #56ccf2, #2f80ed)
+---?color=linear-gradient(to bottom, #da9f5c, #dc778b)
 
-# Let's Get Started
+# Let's Get Started to Styled Components
 [//]: <> (P1)
 ---
 
