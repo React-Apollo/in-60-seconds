@@ -17,7 +17,7 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/javascript.png
+logo : assets/img/sketch.png
 logo-postion : top-left
 
 #
@@ -30,7 +30,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "React-Apollo's super full Stack Javascript Lecture"
 
 #
 # Published Setting
