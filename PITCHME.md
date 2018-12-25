@@ -45,7 +45,7 @@ render(
 ```
 
 [//]: <> (====P2====)
----?color=white
+---?
 @title[Styled Components Basics]
 @snap[ span-80]
     @ul[spaced text-white]
