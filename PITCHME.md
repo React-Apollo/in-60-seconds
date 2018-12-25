@@ -48,14 +48,14 @@ render(
 ---
 @title[Styled Components Basics]
 @snap[ center span-80]
-    @ul[spaced text-white]
-    - Automatic critical CSS
-    - No class name bugs
-    - Easier deletion of CSS
-    - Simple dynamic styling
-    - Painless Maintenance
-    - Automatic vendor prefixing
-    @ulend
+@ul[spaced text-white]
+ - Automatic critical CSS
+ - No class name bugs
+ - Easier deletion of CSS
+ - Simple dynamic styling
+ - Painless Maintenance
+ - Automatic vendor prefixing
+@ulend
 @snapend
 
 
